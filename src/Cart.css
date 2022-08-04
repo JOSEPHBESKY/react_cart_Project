@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.remove{
+    padding: 1%;
+    font-size: large;
+    background-color: cornflowerblue;
+    margin-right: 2%;
+    border-radius: 30%;
+}
+.plus{
+    padding: 1%;
+    font-size: large;
+    background-color: forestgreen;
+    color: aliceblue;
+    margin-right: 2%;
+    border-radius:20%;
+}
+.minus{
+    width: 22px;
+    padding: 1%;
+    font-size: large;
+    background-color: red;
+    color: aliceblue;
+    margin-right: 2%;
+    border-radius:20%;
+
+}

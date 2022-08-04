@@ -1,0 +1,37 @@
+[
+{
+    "id":1,
+    "name":"Audi",
+    "price":"Rs.8990000",
+    "qty":0,
+    "img":"./Audi.jpg"
+},
+{
+    "id":2,
+    "name":"Swift",
+    "price":"Rs.5730000",
+    "qty":0,
+    "img":"./Swift.jpg"
+},
+{
+    "id":3,
+    "name":"Scorpio",
+    "price":"Rs.2400000",
+    "qty":0,
+    "img":"./Scorpio.jpg"
+},
+{
+    "id":4,
+    "name":"Toyota",
+    "price":"Rs.3200000",
+    "qty":0,
+    "img":"./Toyota.jpg"
+},
+{
+    "id":5,
+    "name":"Tata Sumo",
+    "price":"Rs.8930000",
+    "qty":0,
+    "img":"./Tata Sumo.jpg"
+}
+]
